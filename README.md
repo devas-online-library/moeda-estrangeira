@@ -1,6 +1,6 @@
 # Projeto Moeda Estrangeira
 
-Nossa empresa necessita de um microserviço que gere uma ordem de compra das moedas estrangeiras em REAL.
+Nossa empresa necessita de um microsserviço que gere uma ordem de compra das moedas estrangeiras em REAL.
 
 Antes de qualquer compra, precisamos ter registrado os dados do cliente: nome, cpf, data de nascimento, estado civil e sexo no sistema, e também ser possível consultar esses dados através do cpf.
 
